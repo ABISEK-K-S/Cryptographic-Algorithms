@@ -20,8 +20,7 @@
 
 ### 4) S-DES
 
-### 5) RSA Encryption Algorithm 
-![Alt text](./external-link-alt-solid.svg)
+### 5) ![RSA Encryption Algorithm](./blob/master/RSA%20Encryption/rsa.py)
 <img src="./external-link-alt-solid.svg">
 
 ### 6) Diffie-Hellman Key Exchange Algorithm
