@@ -20,8 +20,8 @@
 
 ### 4) S-DES
 
-### 5) ![RSA Encryption Algorithm <img src="./external-link-alt-solid.svg">](./RSA%20Encryption/rsa.py)
+### 5) [RSA Encryption Algorithm](./RSA%20Encryption/rsa.py)
 
-### 6) Diffie-Hellman Key Exchange Algorithm
+### 6) [Diffie-Hellman Key Exchange Algorithm](./Diffie-Hellman%20Key%20Exchange%20Algorithm/diffie.py)
 
-### 7) ElGamal Digital Signature Scheme
+### 7) [ElGamal Digital Signature Scheme](./ElGamal%20Digital%20Signature%20Scheme/elgamol.py)
