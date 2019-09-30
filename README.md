@@ -10,13 +10,13 @@
 - [**Caesar Cipher**](https://github.com/Harihar98/Cryptographic-Algorithms/blob/master/Substitutional%20Ciphers/caesarCipher.cpp)
 - [**Affine Cipher**](https://github.com/Harihar98/Cryptographic-Algorithms/blob/master/Substitutional%20Ciphers/affine_cipher.py)
 - [**Playfair Cipher**](https://github.com/Harihar98/Cryptographic-Algorithms/blob/master/Substitutional%20Ciphers/playfairCipher.py)
-- [**Vigenere Cipher**](#)
-- [**Hill Cipher**](#)
+- [**Vigenere Cipher**](./Substitutional%20Ciphers/vignere.py)
+- [**Hill Cipher**](./Substitutional%20Ciphers/hill.py)
 - [**One-Time Pad Cipher**](https://github.com/Harihar98/Cryptographic-Algorithms/blob/master/Substitutional%20Ciphers/one%20time%20pad.py)
 
 ### 3) Transpositional Ciphers
-- [**Railfence Cipher**](#)
-- [**Row-Column Transpositional Cipher**](#)
+- [**Railfence Cipher**](./Transpositional%20Ciphers/rail.py)
+- [**Row-Column Transpositional Cipher**](./Transpositional%20Ciphers/rowposition.py)
 
 ### 4) S-DES
 
